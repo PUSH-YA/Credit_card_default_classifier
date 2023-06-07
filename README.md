@@ -16,3 +16,5 @@ Hyperparameter optimisation is perforemd on all the models using GridSearchCV an
 
 ## Testing the model
 The model is finally tested on the test data set and evaluated according to classification metrics such as precision, recall and f1 score.
+
+Note: the shap force plot might not be visible on the github preview of the jupyter notebook
